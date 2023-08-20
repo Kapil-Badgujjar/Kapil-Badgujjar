@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [E-commerce website](https://github.com/Kapil-Badgujjar/E-Commerce.git)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **kapilbadgujjar99@gmail.com**
 
