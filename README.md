@@ -1,20 +1,64 @@
-<h1 align="center">Hi 👋, I'm Kapil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Kapil Badgujjar</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer | AWS & Next.js Enthusiast</h3>
 
-- 🔭 I’m currently working on [E-commerce website](https://github.com/Kapil-Badgujjar/E-Commerce.git)
+🔭 Current Role  
+Software Engineer at **Rancholabs, IIT Delhi** working on large-scale edtech and e-commerce platforms.
 
-- 🌱 I’m currently learning **NextJS**
+🚀 What I’m working on
+- Building **KiraKits – E-commerce platform** (MVP delivered in 30 days; 500+ orders in first month)
+- Developing a **Moodle-based LMS** used by 10,000+ students
+- Architecting **AWS-based scalable infrastructure**
 
-- 📫 How to reach me **kapilbadgujjar99@gmail.com**
+🌱 Currently learning  
+**Advanced Next.js, System Design, AWS cost optimization**
 
-- 📄 Know about my experiences [https://codequotient.com/profile/kapil_badgujjar](https://codequotient.com/profile/kapil_badgujjar)
+💼 Skills  
+- **Languages:** C/C++, Python, JavaScript, TypeScript, SQL  
+- **Frameworks:** Next.js, React.js, Node.js, Django  
+- **Databases:** PostgreSQL, MongoDB  
+- **Cloud & DevOps:** AWS (ECS, EC2, S3, Lambda, CloudFront), Docker, GitHub Actions, CI/CD  
+- **Developer Tools:** Git, Linux, Postman, VS Code, Neovim  
 
-<h3 align="left">Connect with me:</h3>
+📫 Reach me at: **kapilbadgujjar99@gmail.com**
+
+---
+
+### 🌟 Featured Projects
+
+- 🛍️ **KiraKits – E-commerce Platform**  
+  End-to-end development | Next.js + TypeScript + AWS  
+  • MVP in 30 days • 500+ orders in first month
+
+- 🎓 **Moodle-based LMS**  
+  Custom Next.js frontend at scale  
+  • 10,000+ students • HLS video streaming optimization
+
+---
+
+### 🤝 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/kapil-badgujjar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kapil-badgujjar/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kapil-badgujjar/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapil-badgujjar&show_icons=true&locale=en&layout=compact" alt="kapil-badgujjar" /></p>
+### 🛠️ Languages and Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kapil-badgujjar&show_icons=true&layout=compact" />
+</p>
