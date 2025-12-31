@@ -46,13 +46,13 @@ Software Engineer at **Rancholabs, IIT Delhi** working on large-scale edtech and
 
 ### 🛠️ Languages and Tools
 <p align="left">
+<img src="https://lh4.googleusercontent.com/13nzMeEhPoDfAJtkQroK0264slif2WOWSYHBT8ahDOxX8jASpnbAHJdseGUb2y8nQ5HAfQskJOImC1a15U5bv6r7_y5FFHFhhPp2VRBhnavS0wQC3W56l2Djn1eut-FsGr9F9sDtLAtUmGuF8YaaXf2SX8_gF3iKJ-SyMtGufoLHNnbMlDsqXB_BkA" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg](https://mmcgbl.com/features-of-amazon-web-services/" width="40" height="40"/>
 </p>
