@@ -54,11 +54,5 @@ Software Engineer at **Rancholabs, IIT Delhi** working on large-scale edtech and
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kapil-badgujjar&show_icons=true&layout=compact" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg](https://mmcgbl.com/features-of-amazon-web-services/" width="40" height="40"/>
 </p>
